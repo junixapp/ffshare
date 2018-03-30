@@ -1,6 +1,11 @@
 ## 文件分享助手
 随启随用的文件分享助手，不限局域网和外网。一条命令即可启动分享！
 
+![npm](https://img.shields.io/npm/v/ffshare.svg?style=flat-square) ![npm](https://img.shields.io/npm/dm/ffshare.svg?style=flat-square)
+
+
+
+
 #### 安装
 ```bash
 npm i ffshare -g
