@@ -1,7 +1,12 @@
 ## 文件分享助手
 
-#### 使用步骤
+#### 安装
+```bash
+npm i ffshare -g
 ```
+
+#### 使用步骤
+```bash
 ffshare D:\movies [port]
 ```
 port可选，默认是3000
