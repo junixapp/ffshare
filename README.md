@@ -2,7 +2,7 @@
 
 #### 使用步骤
 ```
-fshare D:\movies [port]
+ffshare D:\movies [port]
 ```
 port可选，默认是3000
 
