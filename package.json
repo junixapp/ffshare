@@ -1,0 +1,23 @@
+{
+  "name": "ffshare",
+  "version": "0.0.2",
+  "description": "Share your files, just one command to start!",
+  "keywords": [
+    "file-share",
+    "share file",
+    "file static"
+  ],
+  "author": "16167479@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs-extra": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/li-xiaojun/ffshare.git"
+  },
+  "bin": {
+    "ffshare": "./bin/start.js"
+  }
+}
